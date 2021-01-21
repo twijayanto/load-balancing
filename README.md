@@ -11,6 +11,6 @@ $ cd {go-to-project}
 ```
 4. Execute docker compose
 ```bash
-$ docker-compose up
+$ docker-compose up -d
 ```
 5. Open browser: http://docker-ip:8080
